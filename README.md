@@ -7,7 +7,7 @@
 - 👀 **I’m interested in** web development, database management, cloud computing, and DevOps.  
 - 🌱 **Currently learning** Linux administration, SQL, backend development with Node.js & PHP.  
 - 💞️ **Looking for opportunities** to collaborate on exciting **open-source projects, backend systems, and scalable solutions**.  
-- 📫 **How to reach me**: [Email](sgajveer9@gmail.com) | [LinkedIn](www.linkedin.com/in/gajveer-rathod-8ba817280)
+<!-- - 📫 **How to reach me**: [Email](sgajveer9@gmail.com) | [LinkedIn](www.linkedin.com/in/gajveer-rathod-8ba817280)-->
 - ⚡ **Fun fact**: I love automating tasks with Bash scripts!  
 
 ## 🔧 Tech Stack  
